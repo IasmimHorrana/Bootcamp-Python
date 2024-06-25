@@ -1,4 +1,4 @@
-#Crie um programa onde o usuário digita dois valores e aparece a soma.
+# 2 - Crie um programa onde o usuário digita dois valores e aparece a soma.
 
 valor1 = int(input("Digite o primeiro numero: ")) 
 valor2 = int(input("Digite o segundo numero: ")) 
