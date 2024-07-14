@@ -1,5 +1,5 @@
 """ Exercício 6 - Contagem de Palavras em Textos
-Objetivo:** Dado um texto, contar quantas vezes cada palavra única aparece nele.
+Objetivo: Dado um texto, contar quantas vezes cada palavra única aparece nele.
 """
 
 texto = "Don't sit down and wait for the opportunities to come. Get up and make them."
