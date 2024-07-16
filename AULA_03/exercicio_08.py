@@ -17,4 +17,3 @@ print("Usuários com email:")
 for usuario in usuarios_com_email:
     print(usuario)
 
-
