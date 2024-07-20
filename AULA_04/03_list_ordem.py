@@ -13,10 +13,7 @@ nova_lista_num = ordenar_lista(lista_de_numero)
 print(nova_lista_num)
 
 #Segue uma forma de puxar essa função a cima em um outro arquivo se houvesse necessidade:
-from 03_list_ordem import ordenar_lista
-
-lista_de_numero = [40, 2, 35, 0, -460, 1, 9]
-
-nova_lista_num = ordenar_lista(lista_de_numero) #Usar a função importar do módulo
-
-print(nova_lista_num)
+#from 03_list_ordem import ordenar_lista
+#lista_de_numero = [40, 2, 35, 0, -460, 1, 9]
+#nova_lista_num = ordenar_lista(lista_de_numero) #Usar a função importar do módulo
+#print(nova_lista_num)
