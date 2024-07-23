@@ -1,0 +1,5 @@
+Produto,Quantidade,price,entregue
+Camiseta,10,19.99,False
+Calça,5,49.99,True
+Tênis,2,89.99,False
+Meia,2,29.50,True
